@@ -1,4 +1,4 @@
-# AWGN-Channel-Performance-Analaysis
+# AWGN-Channel-Performance-Analysis
 A Python based android app that uses Kivy. 
 Python 3.7 
 Used Kivygarden to plot the graphs
